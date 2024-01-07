@@ -132,7 +132,7 @@
         //  5: 'This email address looks fake or invalid. Please enter a real email address'
 
         $.ajaxChimp.translations.es = {
-            'submit': '...',
+            'submit': 'Thank You For Subscribing',
             0: '<i class="fas fa-check"></i> We have sent you a confirmation email',
             1: '<i class="fas fa-exclamation-triangle"></i> You must enter a valid e-mail address.',
             2: '<i class="fas fa-exclamation-triangle"></i> E-mail address is not valid.',
